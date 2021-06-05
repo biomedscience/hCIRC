@@ -1,0 +1,308 @@
+
+1. Mutant p53 mediates sensitivity to cancer treatment agents in oesophageal adenocarcinoma associated with microRNA and SLC7A11 expression
+(Submitter supplied) 1) Background: TP53 gene mutations occur in 70% of oesophageal adenocarcinomas (OACs). Given the central role of p53 in controlling cellular response to therapy we investigated the role of mutant (mut-) p53 and SLC7A11 in a CRISPR-mediated JH-EsoAd1 TP53 knockout model. (2) Methods: Response to 2 Gy irradiation, cisplatin, 5-FU, 4-hydroxytamoxifen and endoxifen was assessed, followed by a TaqMan OpenArray qPCR screening for differences in miRNA expression. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by RT-PCR
+Platform: GPL22992 22 Samples
+FTP download: GEO (TXT, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE171nnn/GSE171965/
+Series		Accession: GSE171965	ID: 200171965
+
+2. In-depth clinical and biological exploration of DNA Damage Immune Response (DDIR) as a biomarker for oxaliplatin use in colorectal cancer
+(Submitter supplied) Purpose: The DNA Damage Immune Response (DDIR) assay was developed in breast cancer (BC) based on biology associated with deficiencies in homologous recombination and Fanconi Anemia (HR/FA) pathways. A positive DDIR call identifies patients likely to respond to platinum-based chemotherapies in breast and oesophageal cancers. In colorectal cancer (CRC) there is currently no biomarker to predict response to oxaliplatin. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL29069 361 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE156nnn/GSE156915/
+Series		Accession: GSE156915	ID: 200156915
+
+3. MicroRNA profiling in oesophageal adenocarcinoma cell lines and patient serum samples reveals a role for miR-451a in radiation resistance [baseline RT-PCR]
+(Submitter supplied) miRNA was extracted from a range of Oesophageal Adenocarcinoma cell lines using the miRNeasy Mini Kit (Qiagen, #217004, Chadstone, Australia) and RNase-free DNase Set (Qiagen, #79254, Chadstone, Australia). miRNA was reverse transcribed using a  Custom OpenArray® miRNA RT pool (Life Technologies cat # A25630) and the TaqMan® microRNA Reverse Transcription Kit (Life Technologies cat # 4366596). cDNA Pre-amplifications were carried out with a  Custom OpenArray® PreAmp pool (Life Technologies cat # 4485255) and TaqMan PreAmp Master Mix (Life Technologies cat # 4488593). more...
+Organism:	Homo sapiens
+Type:		Expression profiling by RT-PCR
+Platform: GPL22992 30 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE161nnn/GSE161585/
+Series		Accession: GSE161585	ID: 200161585
+
+4. MicroRNA profiling in oesophageal adenocarcinoma cell lines and patient serum samples reveals a role for miR-451a in radiation resistance
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Homo sapiens
+Type:		Non-coding RNA profiling by high throughput sequencing; Expression profiling by high throughput sequencing; Expression profiling by RT-PCR
+Platforms: GPL21697 GPL24676 GPL22992 60 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE161nnn/GSE161149/
+Series		Accession: GSE161149	ID: 200161149
+
+5. MicroRNA profiling in oesophageal adenocarcinoma cell lines and patient serum samples reveals a role for miR-451a in radiation resistance [control and miR-451a inhibitor treatments]
+(Submitter supplied) Many patients with Oesophageal Adenocarcinoma (OAC) that undergo chemoradiotherapy do not benefit from treatment due to therapy resistance. We therefore investigated the association of microRNAs, which regulate gene expression, with the response to individual treatments, focusing on radiation, to both better understand the mechanisms involved in resistance and to find potential biomarkers. Intrinsic radiation resistance and chemotherapy drug resistance were assessed in 8 OAC cell lines, and miRNA expression profiling was performed via high throughput qPCR. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24676 6 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE161nnn/GSE161148/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA675760
+Series		Accession: GSE161148	ID: 200161148
+
+6. MicroRNA profiling in oesophageal adenocarcinoma cell lines and patient serum samples reveals a role for miR-451a in radiation resistance [miRNA-Seq]
+(Submitter supplied) Many patients with Oesophageal Adenocarcinoma (OAC) that undergo chemoradiotherapy do not benefit from treatment due to therapy resistance. We therefore investigated the association of microRNAs, which regulate gene expression, with the response to individual treatments, focusing on radiation, to both better understand the mechanisms involved in resistance and to find potential biomarkers. Intrinsic radiation resistance and chemotherapy drug resistance were assessed in 8 OAC cell lines, and miRNA expression profiling was performed via high throughput qPCR. more...
+Organism:	Homo sapiens
+Type:		Non-coding RNA profiling by high throughput sequencing
+Platform: GPL24676 6 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE161nnn/GSE161088/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA675537
+Series		Accession: GSE161088	ID: 200161088
+
+7. MicroRNA profiling in oesophageal adenocarcinoma cell lines and patient serum samples reveals a role for miR-451a in radiation resistance [patients with Oesophageal Adenocarcinoma]
+(Submitter supplied) Many patients with Oesophageal Adenocarcinoma (OAC) that undergo chemoradiotherapy do not benefit from treatment due to therapy resistance. We therefore investigated the association of microRNAs, which regulate gene expression, with the response to individual treatments, focusing on radiation, to both better understand the mechanisms involved in resistance and to find potential biomarkers. Intrinsic radiation resistance and chemotherapy drug resistance were assessed in 8 OAC cell lines, and miRNA expression profiling was performed via high throughput qPCR. more...
+Organism:	Homo sapiens
+Type:		Non-coding RNA profiling by high throughput sequencing
+Platform: GPL21697 18 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE160nnn/GSE160614/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA673798
+Series		Accession: GSE160614	ID: 200160614
+
+8. Cross validated serum exosomal microRNAs for the detection of oropharyngeal squamous cell carcinoma
+(Submitter supplied) Exosomes were purified from 250 ul serum using ExoQuickTm. The presence of particles consistent in size with exosomes (60-150nm) was confirmed using a Nanosight LM10.   miRNA was extracted from exosomes  using an miRNeasy Serum/Plasma kit (Qiagen, #217184). miRNA was reversed transcribed using a TaqMan® microRNA Reverse Transcription Kit (Life technologies, #4366596). miRNA profiling was performed with a custom high throughput TaqMan® OpenArray® Human microRNA panel  (Life technologies). more...
+Organism:	Homo sapiens
+Type:		Expression profiling by RT-PCR
+Platform: GPL17837 78 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE137nnn/GSE137109/
+Series		Accession: GSE137109	ID: 200137109
+
+9. Differential gene expression between adipsoe depots in cancer cachexia
+(Submitter supplied) Cancer cachexia (CC) is a poorly understood cause of morbidity and mortality, which has no efficacious treatment or generally-accepted management strategy. The consensus definition for CC identified skeletal muscle loss as a key marker in the diagnosis and classification of cachexia. The importance of fat wasting however, is less understood. During cachexia, different adipose depots demonstrate differential wasting rates. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL26710 48 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE131nnn/GSE131835/
+Series		Accession: GSE131835	ID: 200131835
+
+10. Differentially expressed genes following ARID1A depletion
+(Submitter supplied) We konckdown ARID1A and then detected differentially expressed genes
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL21185 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE116nnn/GSE116211/
+Series		Accession: GSE116211	ID: 200116211
+
+11. High frequency of pathogenic germline variants in genes associated with homologous recombination repair in patients with advanced solid cancers
+(Submitter supplied) We identified pathogenic and likely pathogenic variants in 17.8% of the patients within a wide range of cancer types. In particular, mesothelioma, ovarian cancer, cervical cancer, urothelial cancer, and cancer of unknown primary origin displayed high frequencies of pathogenic variants. In total, 22 BRCA1 and BRCA2 germline variant were identified in 12 different cancer types, of which 10 (45%) variants were not previously identified in these patients. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL570 92 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE131nnn/GSE131027/
+Series		Accession: GSE131027	ID: 200131027
+
+12. Distinction of junctional cancers of gastric and oesophageal origin (DJANGO)
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL10558 132 Samples
+FTP download: GEO (IDAT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE96nnn/GSE96669/
+Series		Accession: GSE96669	ID: 200096669
+
+13. Distinction of junctional cancers of gastric and oesophageal origin (DJANGO), batch#2
+(Submitter supplied) Aim of the study was the distinction of adeoncarcinomas at the gastroesophageal junction by their expression profile. Differential gene expression analysis between tumours of different Siewert type did not reveal relevant results. Stratification into three intrinsic subgroups was done by an diagonal distribution model using the mclust package in R. Clinicopathological and demographic parameters showed a similar distribution within the subgroups. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL10558 60 Samples
+FTP download: GEO (IDAT, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE96nnn/GSE96668/
+Series		Accession: GSE96668	ID: 200096668
+
+14. Distinction of junctional cancers of gastric and oesophageal origin (DJANGO), batch#1
+(Submitter supplied) Aim of the study was the distinction of adeoncarcinomas at the gastroesophageal junction by their expression profile. Differential gene expression analysis between tumours of different Siewert type did not reveal relevant results. Stratification into three intrinsic subgroups was done by an diagonal distribution model using the mclust package in R. Clinicopathological and demographic parameters showed a similar distribution within the subgroups. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL10558 72 Samples
+FTP download: GEO (IDAT, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE96nnn/GSE96667/
+Series		Accession: GSE96667	ID: 200096667
+
+15. Genome-Wide DNA Methylation Profiling of Oesophageal Cancer-Associated Myofibroblasts
+(Submitter supplied) The Illumina Infinium HumanMethylation450 BeadChip arrays were performed on a collection of primary oesophageal cancer-associated myofibroblasts (CAM) and their patient-matched adjacent tissue myofibroblasts (ATM). CAM and ATM samples were obtained from patients with oesophageal adenocarcinomas undergoing cancer surgery.
+Organism:	Homo sapiens
+Type:		Methylation profiling by array
+Platform: GPL13534 10 Samples
+FTP download: GEO (CSV, IDAT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE97nnn/GSE97687/
+Series		Accession: GSE97687	ID: 200097687
+
+16. Effects of FGFRL1 deficiency on oesophageal squamous cell carcinoma cells
+(Submitter supplied) Several genes were indicated as genes strongly affected by FGFRL1-deficiency, through expression profiling of a total of 25,000 genes in 2 wild type KYSE520 human oesphageal squamous cell carcinoma cells and 2 FGFRL1-deficient kYSE520 cells
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL13915 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE96nnn/GSE96956/
+Series		Accession: GSE96956	ID: 200096956
+
+17. Microarray data of benzo[a]pyrene-treated WHCO1 vs EPC-2 cells
+(Submitter supplied) The aim of this project was to investigate the differential effects of benzo[a]pyrene (BaP) treatment on global gene transcription, comparing normal (EPC-2) and cancer (WHCO1) cell lines from the oesophagus, in order to further our understanding of the molecular mechanisms of BaP-induced development and maintenance of oesophageal squamous cell carcinoma.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL6884 8 Samples
+FTP download: GEO (IDAT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE109nnn/GSE109316/
+Series		Accession: GSE109316	ID: 200109316
+
+18. Circulating serum miRNAs as potential diagnostic biomarkers for oesophageal adenocarcinoma
+(Submitter supplied) Exosomes were purified from 250 ul serum using ExoQuickTm. The presence of particles consistent in size with exosomes (60-150nm) was confirmed using a Nanosight LM10.   miRNA was extracted from exosomes  using an miRNeasy Serum/Plasma kit (Qiagen, #217184). miRNA was reversed transcribed using a TaqMan® microRNA Reverse Transcription Kit (Life technologies, #4366596). miRNA profiling was performed with a high throughput TaqMan® OpenArray® Human microRNA panel  (Life technologies, #4461104). more...
+Organism:	Homo sapiens
+Type:		Expression profiling by RT-PCR
+Platform: GPL17485 47 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE63nnn/GSE63108/
+Series		Accession: GSE63108	ID: 200063108
+
+19. The microRNA profile in neosquamous oesophageal mucosa following ablation of Barrett's oesophagus
+(Submitter supplied) mucosal biopsies were taken from patients at pre and post-argon plasma coagulation (APC) ablation of Barrett's oesophagus, and from healthy controls. Total RNA was extracted using Trizol. miRNA was reversed transcribed using a TaqMan® microRNA Reverse Transcription Kit (Life technologies, #4366596). miRNA profiling was performed with a high throughput TaqMan® OpenArray® Human microRNA panel  (Life technologies, #4461104). more...
+Organism:	Homo sapiens
+Type:		Expression profiling by RT-PCR
+Platform: GPL17485 57 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE94nnn/GSE94854/
+Series		Accession: GSE94854	ID: 200094854
+
+20. Reduced genetic tumor heterogeneity after neoadjuvant chemotherapy is related to favorable outcome in patients with esophageal adenocarcinoma
+(Submitter supplied) The incidence of oesophageal adenocarcinoma (OeC) has been increasing rapidly in most Western countries during the last few decades. Although multimodal treatment combining pre-operative chemotherapy with radical surgical resection has become the standard of care in the UK for all patients with locally advanced resectable disease, the 5-year survival rate in this patient group is less than 25%. Only 30% of all patients will benefit from pre-operative chemotherapy. more...
+Organism:	Homo sapiens
+Type:		Genome variation profiling by genome tiling array
+Platform: GPL8687 75 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE56nnn/GSE56106/
+Series		Accession: GSE56106	ID: 200056106
+
+21. Expression data in human esophageal squamous carcinoma cell line KYSE150 with LOXL2 delta 72 over-expression
+(Submitter supplied) We have identified a new novel spliced variant of Lysyl Oxidase-like 2 (LOXL2), termed LOXL2 delta72, in human oesophageal carcinoma cells (ESCC). To explore the biological function of this variant, the cDNA microarrays was perform to assess the genes expression induced by its over-expression in ESCC KYSE150. We used microarrays to detail the global programmed of genes expression when LOXL2 delta72 over-expressed in KYSE150 cells compared with wild-type LOXL2.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL15207 3 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE53nnn/GSE53645/
+Series		Accession: GSE53645	ID: 200053645
+
+22. miRNA profiling of oesophageal and gastric myofibroblast in health and disease
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	synthetic construct; Homo sapiens
+Type:		Non-coding RNA profiling by array
+Platform: GPL17107 71 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE76nnn/GSE76221/
+Series		Accession: GSE76221	ID: 200076221
+
+23. MiR-193b promotes autophagy and non-apoptotic cell death in oesophageal cancer cells
+(Submitter supplied) Background: Successful treatment of oesophageal cancer is hampered by recurrent drug resistant disease. We have previously demonstrated the importance of apoptosis and autophagy for the recovery of oesophageal cancer cells following drug treatment. When apoptosis (with autophagy) is induced, these cells are chemosensitive and will not recover following chemotherapy treatment. In contrast, when cancer cells exhibit only autophagy and limited Type II cell death, they are chemoresistant and recover following drug withdrawal. more...
+Organism:	Homo sapiens
+Type:		Non-coding RNA profiling by array
+Platform: GPL16851 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE77nnn/GSE77132/
+Series		Accession: GSE77132	ID: 200077132
+
+24. IL-1β and SERPINA3 are markers of an aggressive Barrett’s Oesophagus phenotype identified using mRNA sequencing
+(Submitter supplied) Introduction: The identification of biomarkers in Barrett’s oesophagus (BO) that stratify groups at risk of progressing to oesophageal adenocarcinoma (OAC) would allow tailored surveillance strategies. We have applied a novel high throughput RNA sequencing analysis characterizing the BO mRNA transcriptome across the metaplasia-dysplasia sequence to identify potential markers of progression in an unbiased fashion and functionally validated these at the protein level. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL10999 21 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE58nnn/GSE58963/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA253993
+Series		Accession: GSE58963	ID: 200058963
+
+25. Expression data from AstraZeneca internal cell lines
+(Submitter supplied) Full legacy gene expression dataset run internally
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL570 627 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE57nnn/GSE57083/
+Series		Accession: GSE57083	ID: 200057083
+
+26. INTESTINAL FILTER FOR USE IN OESOPHAGEAL CANCER RESEARCH
+(Submitter supplied) This study utilise the examination of normal gastro-intestinal tissues to determine a tissue specific signal for use in deriving the intestinal signature of intestinal metaplasias of the oesophagus. Normal oesophageal, colonic and duodenal tissue biopsies were taken after informed consent and RNA was extracted following histological examination of adjacent tissues for normal aperaing mucosa.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL570 9 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE40nnn/GSE40220/
+Series		Accession: GSE40220	ID: 200040220
+
+27. Pulsatile exposure to simulated reflux leads to stereotypical changes in gene expression in a 3D model of oesophageal mucosa
+(Submitter supplied) Oesophageal exposure to duodenogastroesophageal refluxate is implicated in the development of Barrett’s Metaplasia, with increased risk of progression to oesophageal adenocarcinoma. The literature proposes that reflux exposure activates NF-kB, driving the aberrant expression of intestine-specific caudal-related homeobox genes. However, early events in the pathogenesis of Barrett’s Metaplasia from a normal epithelium are poorly understood. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL5188 8 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE45nnn/GSE45380/
+Series		Accession: GSE45380	ID: 200045380
+
+28. Expression data from OE33 oesophageal adenocarcinoma tumour cells following 24 hour co-culture with human adipocytes, adipose tissue explants or control M199 medium
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL15362 20 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE36nnn/GSE36841/
+Series		Accession: GSE36841	ID: 200036841
+
+29. Expression data from OE33 oesophageal adenocarcinoma tumour cells following 24 hour co-culture with human adipocytes or control M199 medium.
+(Submitter supplied) Obesity is linked to increased mortality from many cancer types, and oesophageal adenocarcinoma displays one of the strongest epidemiological associations. The aim of this study was to dissect molecular pathways linking obesity with oesophageal adenocarcinoma and to determine if obesity is linked to increased aggressiveness of this disease.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL15362 10 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE36nnn/GSE36840/
+Series		Accession: GSE36840	ID: 200036840
+
+30. Expression data from OE33 oesophageal adenocarcinoma tumour cells following 24 hour co-culture with human adipose tissue explants or control M199 medium.
+(Submitter supplied) Obesity is linked to increased mortality from many cancer types, and oesophageal adenocarcinoma displays one of the strongest epidemiological associations. The aim of this study was to dissect molecular pathways linking obesity with oesophageal adenocarcinoma and to determine if obesity is linked to increased aggressiveness of this disease.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL15362 10 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE36nnn/GSE36839/
+Series		Accession: GSE36839	ID: 200036839
+
+31. Genes associated with alcohol abuse and nicotine addiction in the human nucleus accumbens
+(Submitter supplied) Background:  The incidence of alcohol and tobacco co-abuse is as high as 80%.  The molecular mechanism underlying this comorbidity is virtually unknown but interactions between these drugs have important implications for the development of, and recovery from drug dependence.  Methods:  We investigated the effects of chronic tobacco and alcohol abuse and the interaction of the two behaviours on global gene expression in the human nucleus accumbens using cDNA microarrays and 20 alcoholic and control cases, with and without smoking comorbidity. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL10117 20 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE20nnn/GSE20568/
+Series		Accession: GSE20568	ID: 200020568
+
+32. Human esophageal adenocarcinomas
+(Submitter supplied) The incidence of esophageal and junctional adenocarcinoma has increased 6 fold in the last 30 years and 5 year survival remains less than 14%. Most patients present with advanced disease and current staging is limited in its ability to predict survival. We aimed to generate and validate a molecular prognostic signature for esophageal adenocarcinoma. Gene expression profiling was performed and the resulting signatures correlated with clinical features for 91 snap frozen esophageal and junctional resection specimens. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL4372 76 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE19nnn/GSE19417/
+Series		Accession: GSE19417	ID: 200019417
+
+33. Expression data from fibroblasts cultured from oesophageal biopsies, taken from metaplasia, dysplasia and EAC specimens.
+(Submitter supplied) Since fibroblasts are a key component of the stroma with an established role in cancer, we investigated the contribution of fibroblasts to the signature observed in the stromal compartment. 13 clonally derived primary stromal fibroblasts were generated from metaplasia, dysplasia and EAC specimens. Expression of a panel of known fibroblast markers and concomitant absence of epithelial markers confirmed their fibroblastic origin. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL6244 13 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE19nnn/GSE19529/
+Series		Accession: GSE19529	ID: 200019529
+
+34. THE EFFECTS OF ALCOHOLISM ON THE HUMAN BASOLATERAL AMYGDALA
+(Submitter supplied) Alcohol affects gene expression in several brain regions. The amygdala is a key structure in the brain’s emotional system and in recent years the crucial importance of the amygdala in drug-seeking and relapse has been increasingly recognized. In this study gene expression screening was used to identify genes involved in alcoholism in the human basolateral amygdala. The results show that alcoholism affects a broad range of genes and many systems including genes involved in synaptic transmission, neurotransmitter transport, structural plasticity, metabolism, energy production, transcription and RNA processing and the circadian cycle. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL9268 2 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE18nnn/GSE18212/
+Series		Accession: GSE18212	ID: 200018212
+
+35. Correlation of Survival with Gene Expression in Oesophageal Cancer
+(Submitter supplied) We evaluated and correlated gene expression profiles of pre-treatment endoscopic biopsies in a pre-defined patient population of resectable oesophageal adenocarcinoma who had received neoadjuvant platinum and fluoropyrimidine based chemotherapy with clinical outcome, the primary end-point being overall survival.  At the time of pre-treatment staging EUS, tumour biopsies were collected (approximately 1.5 mm3). more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platforms: GPL4348 GPL3906 35 Samples
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE11nnn/GSE11595/
+Series		Accession: GSE11595	ID: 200011595
+
+36. Identification of genes modulated by acid and bile in a Barrett's oesophagus cell line
+(Submitter supplied) The major aetiological risk factor for Barrett's oesophagus and oesophageal adenocarcinoma is gastroesophageal reflux.  This study's aim was to identify genes involved in the celular response to reflux in vitro.  The Barrett’s oesophagus cell line, CP-A hTERT, was exposed to media with acid, deoxycholic acid or a primary bile salt mixture.  RNA expression was compared with controls on Affymetrix U133 Plus 2.0 arrays. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL570 13 Samples
+FTP download: GEO (CEL, CHP, EXP) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE9nnn/GSE9768/
+Series		Accession: GSE9768	ID: 200009768
+
+37. Gene expression of gastric mucosa during therapeutic acid inhibition
+(Submitter supplied) The effect on mucosal gene expression of potent acid inhibition with proton pump inhibitors (PPI’s) given to humans in ordinary, therapeutic doses is virtually unknown. Eight patients suffering from gastro-oesophageal reflux disease were included in this study. Endoscopic biopsies were taken from the corpus mucosa before and towards the end of a three-month treatment with the PPI esomeprazole 40 mg daily. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL2799 8 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE3nnn/GSE3240/
+Series		Accession: GSE3240	ID: 200003240
+
+38. Gene induction by low pH in oesophageal cells
+(Submitter supplied) Differential gene expression analysis of oesophageal cells stimulated with a low pH environment. Study designed to identify pathways involved in progression of gastro-oesophageal reflux disease through Barrett's oesophagus to adenocarcinoma. Identified many subsets of genes with involvement in pathogenesis. Keywords = GORD Keywords = Barrett's Oesophagus Keywords = Oesopageal Adenocarcinoma. Keywords: time-course
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Dataset: GDS1286 Platform: GPL96 10 Samples
+FTP download: GEO (CEL, EXP) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE2nnn/GSE2144/
+Series		Accession: GSE2144	ID: 200002144
