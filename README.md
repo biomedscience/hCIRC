@@ -8,4 +8,5 @@
 * 02/19/2021: MiOncoCirc: https://mioncocirc.github.io/
 * 10/02/2020: Novogene circular RNA sequencing service (circRNA-seq)
 * 02/28/2019: CODAC: https://github.com/mcieslik-mctp/codac
+* 03/09/2018: TRCirc: http://www.licpathway.net/TRCirc/view/index
 * 09/25/2017: TCGA: https://www.nature.com/articles/nature20805
