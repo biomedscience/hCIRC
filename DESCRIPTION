@@ -1,11 +1,20 @@
 Package: hCIRC
 Type: Package
-Title: What the Package Does (Title Case)
+Title: biocomputational tools for computational biology
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: bimedical research <biorc@gmail.com>
+Maintainer: bimedical research <biorc@gmail.com>
+Description: hCIRC is a R package for computational biology and biomedical research. hCIRC includes imputation,
+  cluster analysis, prediction, causal inference, network enrichment analysis and neural network modelling.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    usethis
