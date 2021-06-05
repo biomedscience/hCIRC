@@ -6,5 +6,6 @@
 * 04/27/2021: Circ2Disease: http://bioinformatics.zju.edu.cn/Circ2Disease/index.html
 * 03/12/2021: circRNADisease: http://cgga.org.cn:9091/circRNADisease/
 * 02/19/2021: MiOncoCirc: https://mioncocirc.github.io/
+* 10/02/2020: Novogene circular RNA sequencing service (circRNA-seq)
 * 02/28/2019: CODAC: https://github.com/mcieslik-mctp/codac
 * 09/25/2017: TCGA: https://www.nature.com/articles/nature20805
