@@ -1,4 +1,4 @@
-## Genome-wide circRNA profiling to reveal novel biomarker and machnisum to human oesophageal cancer 
+## Genome-wide circRNA profiling to reveal novel machnisum to oesophageal cancer 
 
 * 06/02/2021: transcirc: https://www.biosino.org/transcirc/
 * 06/01/2021: ribocirc: http://www.ribocirc.com/download.html
