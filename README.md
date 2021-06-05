@@ -1,6 +1,6 @@
 ## Genome-wide circRNA profiling to reveal novel mechanism to human oesophageal-cancer 
 
-* 06/05/2021: 38-GEO studies:((oesophageal) AND "Homo sapiens"[porgn:__txid9606]) AND "Homo sapiens"[porgn:__txid9606] 
+* 38-GEO studies:((oesophageal) AND "Homo sapiens"[porgn:__txid9606]) AND "Homo sapiens"[porgn:__txid9606] 
 * 06/05/2021: geo-eso: https://www.ncbi.nlm.nih.gov/gds
 * 06/02/2021: transcirc: https://www.biosino.org/transcirc/
 * 06/01/2021: ribocirc: http://www.ribocirc.com/download.html
