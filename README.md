@@ -12,6 +12,7 @@
 * 10/02/2020: Novogene circular RNA sequencing service (circRNA-seq)
 * 03/08/2019: Cancer-specific alternative splicing in [circRNA](https://academic.oup.com/bib/article/20/6/2327/5089935?login=true)
 * 02/28/2019: CODAC: https://github.com/mcieslik-mctp/codac
+* 12/02/2018: circtools: https://github.com/dieterich-lab/circtools
 * 03/09/2018: TRCirc: http://www.licpathway.net/TRCirc/view/index
 * 01/04/2018: CSCD: http://gb.whu.edu.cn/CSCD/
 * 09/25/2017: TCGA: https://www.nature.com/articles/nature20805
