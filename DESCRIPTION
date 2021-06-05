@@ -2,8 +2,8 @@ Package: hCIRC
 Type: Package
 Title: biocomputational tools for computational biology
 Version: 0.1.0
-Author: bimedical research <biorc@gmail.com>
-Maintainer: bimedical research <biorc@gmail.com>
+Author: biomedical research <biorc@gmail.com>
+Maintainer: biomedical research <biorc@gmail.com>
 Description: hCIRC is a R package for computational biology and biomedical research. hCIRC includes imputation,
   cluster analysis, prediction, causal inference, network enrichment analysis and neural network modelling.
 License: MIT + file LICENSE
@@ -17,4 +17,16 @@ Suggests:
     rmarkdown
 VignetteBuilder: knitr
 Imports: 
-    usethis
+    usethis,
+    Biostrings,
+    GenomicAlignments,
+  	 GenomicFeatures,
+  	 GenomicRanges,
+  	 IRanges,
+  	 RColorBrewer,
+  	 circlize,
+  	 dplyr,
+  	 ggplot2,
+  	 grid,
+  	 gtable,
+  	 stringr,
