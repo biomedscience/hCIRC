@@ -1,4 +1,4 @@
-## Genome-wide circRNA profiling to reveal novel mechanism and biomarker to oesophageal-cancer 
+## Genome-wide circRNA profiling to reveal novel mechanism to human oesophageal-cancer 
 
 * 06/02/2021: transcirc: https://www.biosino.org/transcirc/
 * 06/01/2021: ribocirc: http://www.ribocirc.com/download.html
