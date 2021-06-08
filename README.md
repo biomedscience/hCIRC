@@ -1,11 +1,13 @@
 ## Genome-wide circRNA profiling to reveal novel mechanism to human oesophageal-cancer 
 
+
 * 06/05/2021: Integrative research to transcirc and ribocirc to identify translational circRNA
 * [38-GEO studies](https://github.com/biomedscience/hCIRC/blob/main/data-raw/geo-eso-gds_result-JUNE-05-2021.txt):((oesophageal) AND "Homo sapiens"[porgn:__txid9606]) AND "Homo sapiens"[porgn:__txid9606] 
 * 06/05/2021: geo-eso: https://www.ncbi.nlm.nih.gov/gds
 * 06/02/2021: transcirc: https://www.biosino.org/transcirc/
 * 06/01/2021: ribocirc: http://www.ribocirc.com/download.html
 * 05/28/2021: circinteractome: https://circinteractome.nia.nih.gov/
+* 05/19/2017: QC and downstream analysis for [differential expression RNA-seq](https://bioconductor.org/packages/release/bioc/vignettes/DEGreport/inst/doc/DEGreport.html)
 * 04/27/2021: Circ2Disease: http://bioinformatics.zju.edu.cn/Circ2Disease/index.html
 * 03/12/2021: circRNADisease: http://cgga.org.cn:9091/circRNADisease/
 * 02/19/2021: MiOncoCirc: https://mioncocirc.github.io/
